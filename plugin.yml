@@ -1,7 +1,0 @@
-name: CaveWars
-main: me.cavewars.CaveWars
-version: 1.0
-api-version: 1.20
-commands:
-  sklep:
-    description: Otwiera sklep
